@@ -1,11 +1,9 @@
-/* Reset a bit */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
 
-/* Simple background gradient */
 body {
     background: linear-gradient(to bottom, #d9eaff, #ffffff);
 }
@@ -64,7 +62,7 @@ h2 {
     text-align: center;
 }
 
-/* Project Card – clean beginner style */
+
 .project-card {
     background: white;
     border: 1px solid #ddd;
@@ -80,3 +78,4 @@ footer {
     background: #f3f3f3;
     margin-top: 20px;
 }
+
