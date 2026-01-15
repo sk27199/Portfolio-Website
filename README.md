@@ -33,3 +33,7 @@ I plan to add:
 * Simple animations
 * Dark mode
 * JavaScript for interactivity and dynamic functionality
+
+## Preview
+
+![Portfolio](portfolio_full.png)
