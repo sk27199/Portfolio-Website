@@ -36,4 +36,4 @@ I plan to add:
 
 ## Preview
 
-![Portfolio](portfolio_full.png)
+![Portfolio](portfolio_image.png)
